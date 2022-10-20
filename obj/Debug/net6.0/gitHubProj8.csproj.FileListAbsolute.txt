@@ -1,0 +1,15 @@
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/bin/Debug/net6.0/gitHubProj8
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/bin/Debug/net6.0/gitHubProj8.deps.json
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/bin/Debug/net6.0/gitHubProj8.runtimeconfig.json
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/bin/Debug/net6.0/gitHubProj8.dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/bin/Debug/net6.0/gitHubProj8.pdb
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.csproj.AssemblyReference.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.AssemblyInfoInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.AssemblyInfo.cs
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.csproj.CoreCompileInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/refint/gitHubProj8.dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.pdb
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/gitHubProj8.genruntimeconfig.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj8/obj/Debug/net6.0/ref/gitHubProj8.dll
