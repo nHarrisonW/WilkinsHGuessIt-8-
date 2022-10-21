@@ -1,4 +1,9 @@
 # WilkinsHGuessIt-8-
+N. Harrison Wilkins
+10-19-2022
+GitHub Project Part 8 - GUESS IT
+The user will be be able to choose between an easy, medium, and hard mode.
+easy mode allows 1-10, medium mode allows 1-50, and hard mode allows 1-100 for the user to choose from
 
 
 
